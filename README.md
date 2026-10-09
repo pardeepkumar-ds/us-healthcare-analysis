@@ -1,4 +1,4 @@
-# -us-healthcare-analysis
+# us-healthcare-analysis
 Analysis of a 10,000-patient US hospital dataset — billing trends, admission patterns, and medication insights using Python and pandas.
 Overview
 Analyzed a hospital dataset of around 10,000 patients covering demographics, billing, insurance, and test results to find trends in healthcare costs and patient patterns.
